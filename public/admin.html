@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Admin</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<h1>Panel Admin</h1>
+
+<button id="btnCategoria">Crear categoria</button>
+
+<div id="categorias"></div>
+
+<!-- formulario post -->
+
+<div id="modal">
+
+<form id="formPost">
+
+<input type="hidden" name="categoria" id="categoriaInput">
+
+<input type="text" name="nombre" placeholder="Nombre" required>
+
+<textarea name="descripcion" placeholder="Descripción"></textarea>
+
+<textarea name="contenido" placeholder="Contenido largo"></textarea>
+
+<input type="file" name="imagen" required>
+
+<button type="submit">Guardar</button>
+
+</form>
+
+</div>
+
+<script src="admin.js"></script>
+
+</body>
+</html>
