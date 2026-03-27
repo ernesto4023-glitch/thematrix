@@ -210,6 +210,104 @@ app.get("/contenido", (req, res) => {
 
 })
 
+app.delete("/eliminar-post/:id",(req,res)=>{
+
+const id = Number(req.params.id)
+
+const data = JSON.parse(fs.readFileSync("contenido.json"))
+
+const nuevo = data.filter(p => p.id != id)
+
+fs.writeFileSync("contenido.json",JSON.stringify(nuevo,null,2))
+
+res.json({mensaje:"eliminado"})
+
+})
+
+app.put("/editar-post/:id",(req,res)=>{
+
+const id = Number(req.params.id)
+const {nombre, descripcion} = req.body
+
+const data = JSON.parse(fs.readFileSync("contenido.json"))
+
+const post = data.find(p => p.id == id)
+
+if(post){
+
+post.nombre = nombre
+post.descripcion = descripcion
+
+}
+
+fs.writeFileSync("contenido.json",JSON.stringify(data,null,2))
+
+res.json({mensaje:"actualizado"})
+
+})
+
+// comentarios.json
+
+if (!fs.existsSync("comentarios.json")) {
+  fs.writeFileSync("comentarios.json", "[]")
+}
+
+/* SERVER COMENTARIOS*/
+
+app.post("/agregar-comentario",(req,res)=>{
+
+const {libroId,nombre,texto} = req.body
+
+const data = JSON.parse(fs.readFileSync("comentarios.json"))
+
+data.push({
+
+id:Date.now(),
+libroId,
+nombre,
+texto
+
+})
+
+fs.writeFileSync("comentarios.json",JSON.stringify(data,null,2))
+
+res.json({mensaje:"comentario guardado"})
+
+})
+
+/*OBTENER COMENTARIOS */
+
+app.get("/comentarios/:id",(req,res)=>{
+
+const id = req.params.id
+
+const data = JSON.parse(fs.readFileSync("comentarios.json"))
+
+const comentarios = data.filter(c=>c.libroId == id)
+
+res.json(comentarios)
+
+})
+
+/* OBTENER TODOS LOS COMENTARIOS */
+
+app.get("/comentarios-todos",(req,res)=>{
+
+try{
+
+const data = fs.readFileSync("comentarios.json","utf8")
+const comentarios = JSON.parse(data)
+
+res.json(comentarios)
+
+}catch(error){
+
+res.json([])
+
+}
+
+})
+
 
 // =====================
 // INICIAR SERVIDOR

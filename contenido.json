@@ -1,30 +1,6 @@
 [
   {
-    "id": 1773187276172,
-    "nombre": "ninja gaiden",
-    "descripcion": "const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()",
-    "contenido": "const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()const express = require(\"express\") const multer = require(\"multer\") const fs = require(\"fs\") const path = require(\"path\") const app = express()",
-    "categoria": "1773184872292",
-    "imagen": "uploads/1773187276161.jpg"
-  },
-  {
-    "id": 1773180809006,
-    "nombre": "black",
-    "descripcion": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
-    "contenido": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
-    "categoria": "1773184872292",
-    "imagen": "uploads/1773187808993.jpg"
-  },
-  {
     "id": 1774187809006,
-    "nombre": "black",
-    "descripcion": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
-    "contenido": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
-    "categoria": "1773184872292",
-    "imagen": "uploads/1773187808993.jpg"
-  },
-  {
-    "id": 1773187809026,
     "nombre": "black",
     "descripcion": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
     "contenido": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
@@ -48,11 +24,75 @@
     "imagen": "uploads/1773187808993.jpg"
   },
   {
-    "id": 1773187809106,
-    "nombre": "black",
-    "descripcion": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
-    "contenido": ".posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}.posts{\r\n\r\ndisplay:grid;\r\ngrid-template-columns:repeat(auto-fill,minmax(200px,1fr));\r\ngap:20px;\r\nmargin-top:20px;\r\n\r\n}\r\n\r\n.card{\r\n\r\nbackground:#222;\r\nborder-radius:8px;\r\noverflow:hidden;\r\nborder:1px solid #333;\r\ntransition:0.3s;\r\n\r\n}\r\n\r\n.card:hover{\r\n\r\ntransform:scale(1.05);\r\n\r\n}\r\n\r\n.card img{\r\n\r\nwidth:100%;\r\nheight:150px;\r\nobject-fit:cover;\r\n\r\n}\r\n\r\n.card h3{\r\n\r\npadding:10px;\r\nmargin:0;\r\n\r\n}\r\n\r\n.card p{\r\n\r\npadding:0 10px 10px;\r\nfont-size:14px;\r\ncolor:#aaa;\r\n\r\n}",
+    "id": 1773720381881,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "habia una vez un barquito chiquitito",
+    "contenido": "hola como estas esto es una prueba para ver si el formulario para subir contenido funciona bien aqui va el contenido del libro y arriba es una breve descripcion",
+    "categoria": "",
+    "imagen": "uploads/1773720381861.jpg"
+  },
+  {
+    "id": 1773720428889,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "zdnrjng ña<srngñrns rvnrñnñrn <snñsñjnsj sñvnñjnsj s<vñjsknvñsjns<j sñjvnsjñvsjkgskj ",
+    "contenido": "vsarngjrngjñarejrgjrne argoergnernnñaer wegprgbqgibr gvpwjgjjagjrg agrjgkrbndkgjbdgl ",
+    "categoria": "",
+    "imagen": "uploads/1773720428882.jpg"
+  },
+  {
+    "id": 1773721404263,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
     "categoria": "1773184872292",
-    "imagen": "uploads/1773187808993.jpg"
+    "imagen": "uploads/1773721404257.jpg"
+  },
+  {
+    "id": 1773721431615,
+    "nombre": "05 Caja Sorpresa Premium",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721431606.jpg"
+  },
+  {
+    "id": 1773721460679,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721460675.jpg"
+  },
+  {
+    "id": 1773721431625,
+    "nombre": "05 Caja Sorpresa Premium",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721431606.jpg"
+  },
+  {
+    "id": 1773721460689,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721460675.jpg"
+  },
+  {
+    "id": 1773721131615,
+    "nombre": "05 Caja Sorpresa Premium",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721431606.jpg"
+  },
+  {
+    "id": 17737214660679,
+    "nombre": "Bombillo Ventilador Giratorio Ambientado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "contenido": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\nLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, dicta dolores rem dolorem aspernatur corporis quis adipisci beatae itaque eos suscipit ad veritatis necessitatibus excepturi autem tenetur sequi accusantium natus.\r\n",
+    "categoria": "1773186981417",
+    "imagen": "uploads/1773721460675.jpg"
   }
 ]

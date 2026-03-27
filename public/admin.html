@@ -8,15 +8,98 @@
 </head>
 <body>
 
+<style>
+h1{
+text-align:center;
+padding:10px 0;
+}
+
+body{ 
+background: 
+linear-gradient(rgba(0, 255, 255, 0.6), rgba(30, 0, 255, 0.6)),
+url("img/matrix-code-animation-gif-free-animated-background-716.gif");
+background-size:cover;
+}
+
+/* MENU ADMIN */
+
+.admin-menu{
+display:flex;
+gap:20px;
+padding:20px;
+justify-content:center;
+}
+
+.admin-menu button{
+padding:10px 20px;
+cursor:pointer;
+}
+
+/* SECCIONES */
+
+.seccion{
+display:none;
+padding:20px;
+}
+
+.seccion.activa{
+display:block;
+}
+
+/* FORMULARIO FIJO */
+
+#formPost{
+background:#111;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+}
+
+</style>
+
+<nav>
+
+<h2>Mundo Paranormal</h2>
+
+<ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="temas.html">Avistamientos</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+
+</nav>
+
 <h1>Panel Admin</h1>
 
-<button id="btnCategoria">Crear categoria</button>
+<!-- MENU -->
 
-<div id="categorias"></div>
+<div class="admin-menu ">
 
-<!-- formulario post -->
+<button class="btns" data-seccion="categorias">Categorias</button>
+<button class="btns" data-seccion="contenido">Contenido</button>
+<button class="btns" data-seccion="comentarios">Comentarios</button>
 
-<div id="modal">
+</div>
+
+<!-- ===================== -->
+<!-- CATEGORIAS -->
+<!-- ===================== -->
+
+<div id="categorias" class="seccion activa">
+
+<button id="btnCategoria" class="btns">Crear categoria</button>
+
+<div id="listaCategorias"></div>
+
+</div>
+
+<!-- ===================== -->
+<!-- CONTENIDO -->
+<!-- ===================== -->
+
+<div id="contenido" class="seccion">
+
+<h2>Agregar contenido</h2>
 
 <form id="formPost">
 
@@ -34,7 +117,53 @@
 
 </form>
 
+<div id="listaContenido"></div>
+
 </div>
+
+<!-- ===================== -->
+<!-- COMENTARIOS -->
+<!-- ===================== -->
+
+<div id="comentarios" class="seccion">
+
+<h2>Libros con comentarios</h2>
+
+<div id="listaComentariosAdmin"></div>
+
+</div>
+
+
+<footer>
+
+<div class="footer-container">
+
+<div class="footer-col">
+<h4>Sobre el proyecto</h4>
+<p>
+Sitio dedicado a explorar misterios, fenómenos paranormales
+y eventos que aún no tienen explicación científica.
+</p>
+</div>
+
+<div class="footer-col">
+<h4>Enlaces</h4>
+<p>Inicio</p>
+<p>Avistamientos</p>
+<p>Investigaciones</p>
+<p>Contacto</p>
+</div>
+
+<div class="footer-col">
+<h4>Contacto</h4>
+<p>Email: contacto@misterios.com</p>
+<p>Instagram: @misterios</p>
+<p>YouTube: Mundo Paranormal</p>
+</div>
+
+</div>
+
+</footer>
 
 <script src="admin.js"></script>
 

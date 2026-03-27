@@ -15,7 +15,7 @@
     background-size:cover;
 
     }
-    
+
     </style>
 
     <nav>
@@ -44,6 +44,42 @@
         <div class="libro-imagen">
 
         <img id="imagen">
+
+        <button id="btnComentarios">Ver comentarios</button>
+
+        <div id="modalComentarios">
+
+        <div class="modal-contenido">
+
+        <h2>Comentarios</h2>
+
+        <div id="listaComentarios"></div>
+
+        <form id="formComentario">
+
+        <input 
+        type="text" 
+        id="nombreComentario" 
+        placeholder="Tu nombre"
+        required
+        >
+
+        <textarea 
+        id="textoComentario"
+        placeholder="Escribe tu comentario..."
+        required
+        ></textarea>
+
+        <button type="submit">Enviar comentario</button>
+        <button id="cerrarModal">Cerrar</button>
+        </form>
+
+        
+
+        </div>
+
+        </div>
+
 
         </div>
 
@@ -80,6 +116,7 @@ y eventos que aún no tienen explicación científica.
 
 </footer>
     <script src="libro.js"></script>
+    <script src="comentarios.js"></script>
     
 </body>
 </html>
